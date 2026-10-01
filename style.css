@@ -412,6 +412,12 @@ main.inhoud-wrapper {
     padding: 2.5rem 1.5rem 3rem;
 }
 
+.person-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
 .MarkKramer,
 .JoëlPennekamp,
 .LennardKnap,
